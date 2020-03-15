@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="small">10sp</dimen>
+    <dimen name="medium_small">12sp</dimen>
+    <dimen name="medium">14sp</dimen>
+    <dimen name="medium_large">16sp</dimen>
+    <dimen name="large">18sp</dimen>
+    <dimen name="extra_large">22sp</dimen>
+
+    <dimen name="margin">12dp</dimen>
+    <dimen name="margin_big">36dp</dimen>
+    <dimen name="icon">48dp</dimen>
+    <dimen name="icon_small">40dp</dimen>
+</resources>
